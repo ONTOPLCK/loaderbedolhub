@@ -9,7 +9,8 @@ local loader = Instance.new("ScreenGui", core_gui)
 -- SOLO JUEGOS CON LINKS
 local games = {
 	{ name = "Volleyball Legends", link = "https://raw.githubusercontent.com/ONTOPLCK/bedolhubvl/refs/heads/main/volleyballlegends" },
-	{ name = "Blade Ball", link = "https://raw.githubusercontent.com/ONTOPLCK/bladeball/refs/heads/main/bladeball" }, -- ejemplo personalizado
+	{ name = "Blade Ball", link = "https://raw.githubusercontent.com/ONTOPLCK/bladeball/refs/heads/main/bladeball" }, 
+{ name = "Arise Crossover", link = "https://raw.githubusercontent.com/ONTOPLCK/arisecrossover/refs/heads/main/arisecrossover" }, 
 }
 
 local holder_stroke = Instance.new("UIStroke")
