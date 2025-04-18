@@ -6,7 +6,6 @@ local core_gui = game:GetService("CoreGui")
 
 local loader = Instance.new("ScreenGui", core_gui)
 
--- SOLO JUEGOS CON LINKS (corregido)
 local games = {
     { name = "Volleyball Legends", link = "https://raw.githubusercontent.com/ONTOPLCK/bedolhubvl/refs/heads/main/volleyballlegends" },
     { name = "Blade Ball", link = "https://raw.githubusercontent.com/ONTOPLCK/bladeball/refs/heads/main/bladeball" }, 
